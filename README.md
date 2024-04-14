@@ -8,5 +8,4 @@
 
 ### I am open to connecting with professionals in the fields of AI, computer vision, and data science, my focus is on knowledge exchange, networking, and collaboration for transformative projects.
 
-### Contact: amirvolo@gmail.com 
-### [Linkedin](https://www.linkedin.com/in/amir-voloshin-79ba22169/)
+### Contact: amirvolo@gmail.com, [Linkedin](https://www.linkedin.com/in/amir-voloshin-79ba22169/)
